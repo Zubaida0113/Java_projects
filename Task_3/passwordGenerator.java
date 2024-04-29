@@ -1,5 +1,8 @@
-package password;
 
+/*This is the Main class of Password generator project
+I have created a package named password which contains PasswordUtil class (the backend java code of password generation)
+*/
+import password.PasswordUtil;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
