@@ -100,7 +100,7 @@ public class GuessingGame extends JFrame implements ActionListener {
         }
 
         remainingGuesses--;
-        if (remainingGuesses == 0) {
+        if (remainingGuesses <= 0) {
             result.setText("You have exhausted your chances.\nThe number was " + VAL + ".\nBetter Luck Next Time!");
             disableInput(); // Disable input after all chances are used
         }
