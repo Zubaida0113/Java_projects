@@ -53,7 +53,7 @@ public class GuessingGame extends JFrame implements ActionListener {
         enter.addActionListener(this);
 
         result = new JTextArea();
-        result.setBounds(50, 220, 500, 100);
+        result.setBounds(50, 220, 500, 110);
         result.setFont(resfont);
         result.setBackground(Color.WHITE);
         result.setEditable(false); // Disable editing
