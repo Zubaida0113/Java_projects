@@ -1,4 +1,4 @@
-# TechnoHack_Java_projects-Internship-2024
+# Java_projects-2024
 Hi.<br>
 My Name is Zubaida Sehnaz.<br>
 I am pursuing my B.TECH(CSE) from Galgotias University.<br>
